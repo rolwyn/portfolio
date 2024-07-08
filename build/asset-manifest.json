@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67c72d60.css",
+    "main.js": "/static/js/main.de76ee1f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/portfolio.png": "/static/media/portfolio.a5b89e83d90015808fc7.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/petz.png": "/static/media/petz.18df73b10368d31b7533.png",
+    "static/media/amazon.png": "/static/media/amazon.df68e9d852ff543808d9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/RolwynResume2024_updated.pdf": "/static/media/RolwynResume2024_updated.384ce8def3e4c90d1626.pdf",
+    "static/media/foodapp.png": "/static/media/foodapp.52bc099e69a36c001586.png",
+    "static/media/logo.png": "/static/media/logo.2068d1c3ca984ee0409f.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.67c72d60.css.map": "/static/css/main.67c72d60.css.map",
+    "main.de76ee1f.js.map": "/static/js/main.de76ee1f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c72d60.css",
+    "static/js/main.de76ee1f.js"
+  ]
+}
