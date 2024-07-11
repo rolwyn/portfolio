@@ -98,7 +98,8 @@ function Projects() {
               isBlog={false}
               title="Student Hub Automation"
               summary="A fully automated course registration system using Selenium Test Automation Framework Utilized Java and TestNG suite for scripting and generating reports post each testing phase to indicate success or failure"
-            />
+              ghLink="https://github.com/rolwyn/selenium-automation"
+              />
           </Col>
 
           <Col md={4} className="project-card">
