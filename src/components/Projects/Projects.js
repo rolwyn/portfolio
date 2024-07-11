@@ -107,7 +107,7 @@ function Projects() {
               isBlog={false}
               title="Cloud Lens Image Store"
               summary="A highly scalable infrastructure as code utilizing CloudFormation to deploy a Nodejs application along with PostgreSQL incorporating auto-scaling, Load balancing, DNS, automated CI/CD, monitoring, security, and automated rollback features. It Leveraged GitHub actions along with HCL Packer and AWS Code deploy to perform CI/CD actions using GitHub workflow."
-              ghLink="https://github.com/rolwyn/Infrastructure-as-Code-using-CloudFormation"
+              ghLink="https://github.com/rolwyn/infrastructure"
               />
           </Col>
 
@@ -117,7 +117,7 @@ function Projects() {
               isBlog={false}
               title="Event Tracker"
               summary="Event tracker which helps track live events around the Northeastern University campus. It is built using ReactJS/Redux, NodeJs, and MongoDB, adhering to the MVC design pattern, a search filter API for searching different real time events occurring throughout the campus based on tags and existing keywords."        
-              ghLink="https://github.com/rolwyn/Event-Tracker"
+              ghLink="https://github.com/rolwyn/final-project-team-7"
               />
           </Col>
 
