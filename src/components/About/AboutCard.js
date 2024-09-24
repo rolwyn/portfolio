@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="green">Rolwyn Quadras </span>
             currently living in the <span className="green"> United States.</span>
             <br />
-            I am currently employed as a <span className="green">Full-Stack Volunteer</span> at Abecedarian LLC.
+            I am currently employed as a <span className="green">Front End Developer</span> at CitiusTech USA.
             <br />
             I have completed <span className="green">Master's (Ms) in Information Systems</span> from <span className="green">Northeastern University, Boston (Dec '23)</span>.
             <br />
