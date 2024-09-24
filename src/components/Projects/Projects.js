@@ -30,7 +30,7 @@ function Projects() {
               isBlog={false}
               title="Front End Developer – CitiusTech, USA "
               summary="CitiusTech enables healthcare organizations (payers, providers, medical tech and life sciences companies) powering the shift to next-gen digital technology."
-              point1="● Crafted a responsive and intuitive UI for the Indian food recommendation app leveraging HTML, CSS, ReactJS, and Redux"
+              point1="● Crafted responsive and intuitive web application leveraging React.js and Tailwind to improve overall user engagement"
               point2="●Seamlessly integrated GraphQL to expedite data querying and presentation on web interfaces to improve application performance."
               point3="● Assembled the infrastructure using Cloud tools like Google Cloud and Terraform"
             />
