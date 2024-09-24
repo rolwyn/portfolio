@@ -29,7 +29,7 @@ function Projects() {
               imgPath={CitiusTech}
               isBlog={false}
               title="Front End Developer – CitiusTech, USA "
-              summary="Food app Garam is an AI based tool which generates information about any Indian food item with features such as real-time image detection, restaurant recommendations, providing recipes etc."
+              summary="CitiusTech enables healthcare organizations (payers, providers, medical tech and life sciences companies) powering the shift to next-gen digital technology."
               point1="● Crafted a responsive and intuitive UI for the Indian food recommendation app leveraging HTML, CSS, ReactJS, and Redux"
               point2="●Seamlessly integrated GraphQL to expedite data querying and presentation on web interfaces to improve application performance."
               point3="● Assembled the infrastructure using Cloud tools like Google Cloud and Terraform"
