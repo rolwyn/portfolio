@@ -28,10 +28,10 @@ function Projects() {
             <ProjectCard
               imgPath={foodapp}
               isBlog={false}
-              title="Full-Stack Volunteer - Abecedarian LLC (US)"
+              title="Front End Developer – CitiusTech, USA "
               summary="Food app Garam is an AI based tool which generates information about any Indian food item with features such as real-time image detection, restaurant recommendations, providing recipes etc."
               point1="● Crafted a responsive and intuitive UI for the Indian food recommendation app leveraging HTML, CSS, ReactJS, and Redux"
-              point2="●Used GraphQL to query the exact data needed to display in the UI"
+              point2="●Seamlessly integrated GraphQL to expedite data querying and presentation on web interfaces to improve application performance."
               point3="● Assembled the infrastructure using Cloud tools like Google Cloud and Terraform"
             />
           </Col>
@@ -43,7 +43,7 @@ function Projects() {
               title="Front-End Co-op - Peapod Digital Labs (US)"
               summary="Peapod Digital Labs is the ecommerce engine of Ahold Delhaize USA, one of the nation's largest grocery retail groups"
               point1="●	Spearheaded development of highly reactive reusable components using VueJs and Vuex, reducing code size and backlog by 30%"
-              point2="●	Enhanced code efficiency by 40% for grocery store websites like Shop&Shop, Martins, Giants, and Food Lion, reducing redundancy"
+              point2="●	Enhanced code efficiency for grocery store websites like Shop&Shop, Martins, Giants, and Food Lion, reducing redundancy"
               demoLink="https://stopandshop.com/savings/coupons/browse"
               />
           </Col>
@@ -55,7 +55,7 @@ function Projects() {
               title="Software Engineer - Aggrepay Payment Solutions (Mumbai, IN)"
               summary="AggrePay offers a comprehensive and secure range of payment channels to simplify making payments or receiving them."
               point1="●	Developed admin and merchant dashboard UI for nationalized banks using HTML, CSS, and JavaScript to elevate user experience"
-              point2="●Implemented 'buy now pay later' feature using NodeJS, leading to a substantial 20% surge in customer spending"
+              point2="●Architected the 'buy now pay later' feature using React and NodeJS, leading to a substantial 24% surge in customer spending"
             />
           </Col>
 
@@ -65,9 +65,9 @@ function Projects() {
               isBlog={false}
               title="Software Engineer - KPIT Technologies (Pune, IN)"
               summary="KPIT is a global partner to the Automotive Industry and Mobility Ecosystem for making software-defined vehicles a reality."
-              point1="●	Engineered a ReactJS dashboard to visualize Carla simulation data for analyzing and validating the autonomous driving algorithms"
-              point2="● Developed a web-based solution in Angular 4 for Cummins India Pvt. Ltd. to collect and show data for power systems"
-              point3="● Implemented new features in HTML, CSS and JS for Annotation and Labelling Service tool resulting in a 12% boost in productivity"
+              point1="●	Incorporated a ReactJS dashboard to visualize Carla simulation data for analyzing and validating the autonomous driving algorithms"
+              point2="● Established a web-based solution in Angular 4 for Cummins India Pvt. Ltd. to collect and show data for power systems"
+              point3="● Developed new features in HTML, CSS and JS for Annotation and Labelling Service tool resulting in a 33.3% boost in productivity"
             />
           </Col>
 
