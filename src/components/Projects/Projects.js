@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import kpit from "../../Assets/Projects/kpit.png";
-import foodapp from "../../Assets/Projects/foodapp.png";
+import CitiusTech from "../../Assets/Projects/CitiusTech_Logo.png";
 import peapod from "../../Assets/Projects/peapod.png";
 import aggrepay from "../../Assets/Projects/aggrepay.png";
 import getsethome from "../../Assets/Projects/getsethome.png";
@@ -26,7 +26,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={foodapp}
+              imgPath={CitiusTech}
               isBlog={false}
               title="Front End Developer – CitiusTech, USA "
               summary="Food app Garam is an AI based tool which generates information about any Indian food item with features such as real-time image detection, restaurant recommendations, providing recipes etc."
