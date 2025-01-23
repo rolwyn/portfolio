@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import kpit from "../../Assets/Projects/kpit.png";
-import CitiusTech from "../../Assets/Projects/CitiusTech_Logo.png";
+// import CitiusTech from "../../Assets/Projects/CitiusTech_Logo.png";
 import peapod from "../../Assets/Projects/peapod.png";
 import aggrepay from "../../Assets/Projects/aggrepay.png";
 import getsethome from "../../Assets/Projects/getsethome.png";
