@@ -24,7 +24,7 @@ function Projects() {
           Here are my few professional acheivements.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          {/*<Col md={4} className="project-card">
             <ProjectCard
               imgPath={CitiusTech}
               isBlog={false}
@@ -34,7 +34,7 @@ function Projects() {
               point2="●Seamlessly integrated GraphQL to expedite data querying and presentation on web interfaces to improve application performance."
               point3="● Assembled the infrastructure using Cloud tools like Google Cloud and Terraform"
             />
-          </Col>
+          </Col>*/}
 
           <Col md={4} className="project-card">
             <ProjectCard
